@@ -4,7 +4,7 @@ driver = webdriver.Chrome()
 driver.get('https://web.whatsapp.com/')
 
 nombre = "Nano Spector"
-msg = "Putarraco **con voz de robot**"
+msg = "non spam text"
 spam = 1
 
 input("Scan qr")
